@@ -11,7 +11,9 @@ namespace GitTest3
         static void Main(string[] args)
         {
 
-            Console.WriteLine("conflict test");
+
+            Console.WriteLine("My World");
+
             Console.WriteLine("MTV Test Add");
 
             Console.ReadLine();
